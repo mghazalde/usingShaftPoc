@@ -1,4 +1,4 @@
-# usingShaftPoc
+# UsingShaftPoc
 # Prerequisites
 - JDK 1.8+
 - MAVEN 3.8.4 +
